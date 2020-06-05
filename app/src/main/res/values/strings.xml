@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="question_Australia">Canberra is the capital of Australia.</string>
+    <string name="question_Ocean">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_Mideast">The Suez Canal connects the Red Sea and the Indian Ocean</string>
+    <string name="question_Africa">The Source of the NIle River is in Egypt.</string>
+    <string name="question_America">The Amazon River is the Longest River in America.</string>
+    <string name="question_Asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+
+
+    <string name="correct_toast">CORRECT!!</string>
+    <string name="incorrect_toast">INCORRECT!!</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
